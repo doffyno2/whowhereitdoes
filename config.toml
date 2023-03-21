@@ -1,6 +1,6 @@
 baseURL = 'https://whowhereitdoes.pages.dev/'
 languageCode = 'en-us'
-title = 'FAQs'
+title = 'FAQs - Whowhereitdoes'
 theme = 'PaperMod'
 paginate = "10"
 
